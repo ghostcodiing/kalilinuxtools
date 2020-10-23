@@ -11,4 +11,8 @@ If you are running this on a Virtual Machine inside a Windows host - when instal
 
 $ git clone https://github.com/ghostcodiing/kalilinuxtools.git
 
+$ unzip kalilinuxtools.zip
+
+$ cd kalilinuxtools
+
 $ sudo python3 install.py
